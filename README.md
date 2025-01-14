@@ -22,7 +22,7 @@ bash fold_sh/<SCRIPT> owmatch.py <NAME> <LABEL RATIO> <GPU>
 ```
 * SCRIPT: The specific script to run (e.g., dataset-specific configuration).
 * NAME: The name for the experiment or run.
-* LABEL RATIO: The label-to-training data ratio.
+* LABEL RATIO: The portion of assigned labeled data from the seen classes.
 * GPU: The GPU ID to use for training.
 
 
